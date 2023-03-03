@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<p>我的项目：</p>
 
-<hr/>
 
 <!--
 **Lee-0x00/Lee-0x00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
